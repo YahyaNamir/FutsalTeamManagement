@@ -88,6 +88,7 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     alignItems: 'center',
+    marginVertical: 10,
   },
 });
 
