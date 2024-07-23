@@ -8,7 +8,6 @@ const App = () => {
   const [players, setPlayers] = useState([
     { id: '1', name: 'ANIBA' },
     { id: '2', name: 'ELFENNI' },
-    { id: '3', name: 'CHARAOUI' },
 
   ]);
 
