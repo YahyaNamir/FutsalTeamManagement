@@ -11,6 +11,7 @@ const App = () => {
     { id: '3', name: 'CHARAOUI' },
     { id: '4', name: 'ALAYAN' },
     { id: '5', name: 'MESRAR' },
+    { id: '6', name: 'IDRIS' },
   ]);
 
   const [absentPlayers, setAbsentPlayers] = useState([
